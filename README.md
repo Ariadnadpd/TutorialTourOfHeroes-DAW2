@@ -6,7 +6,7 @@ El tutorial trata de ayudar a una agencia de personal a administrar su grupo de 
 La aplicación terminada adquiere y muestra una lista de héroes, donde se puede editar los detalles de un héroe seleccionado, añadir nuevos héroes, eliminar un héroe y navegar entre diferentes vistas de datos heroicos.
 
 ## Requerimientos
-1. Tener instalado `Node.js` y npm.
+1. Tener instalado [Node.js y npm](https://nodejs.org/es/).
 2. Tener instalada la `versión 13.2.6` del CLI Angular.
 3. Tener instalado un navegador, preferiblemente el de `Google Chroome`.
 
