@@ -1,27 +1,21 @@
-# AngularTourOfHeroes
+# TutorialTryIt-DAW2
+Sitio web desarrollado con el framework de Angular, basado en el tutorial [_Tour of Heroes_](https://angular.io/tutorial) de la página oficial de [Angular](https://angular.io).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+El tutorial trata de ayudar a una agencia de personal a administrar su grupo de héroes. La aplicación tiene muchas de las funciones que esperaría encontrar en cualquier aplicación basada en datos. 
 
-## Development server
+La aplicación terminada adquiere y muestra una lista de héroes, donde se puede editar los detalles de un héroe seleccionado, añadir nuevos héroes, eliminar un héroe y navegar entre diferentes vistas de datos heroicos.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Requerimientos
+1. Tener instalado `Node.js` y npm.
+2. Tener instalada la `versión 13.2.6` del CLI Angular.
+3. Tener instalado un navegador, preferiblemente el de `Google Chroome`.
 
-## Code scaffolding
+# Cómo ejecutar el proyecto
+En primer lugar, para ejecutar el proyecto localmente hay que descargar la carpeta del proyecto y descomprimirla. Luego, hay que realizar los siguientes pasos desde la terminal del equipo o desde la terminal de un IDE (Visual Studio Code, por ejemplo):
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Ir a la carpeta del proyecto: `cd TutorialTourOfHeroes-DAW2`.
+* Ejecutar el siguiente comando para descargar todas las dependencias que encuentre en el fichero **package.json** del proyecto: `npm install`.
+* Por último, ejecutar el comando `ng serve` para arrancar el servidor de desarrollo, es decir, para ejecutar la aplicación. Después, navegar a `http://localhost:4200/`. 
+* También, se puede ejecutar `ng -o serve` para que la aplicación se ejecute y se abra automáticamente en el navegador por defecto. La aplicación, en ambos casos, se recargará automáticamente si cambia alguno de los archivos de origen.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Otra manera más sencila de acceder al proyecto es haciendo clic [aquí](https://angular-ttoh.netlify.app).
