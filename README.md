@@ -18,4 +18,4 @@ En primer lugar, para ejecutar el proyecto localmente hay que descargar la carpe
 * Por último, ejecutar el comando `ng serve` para arrancar el servidor de desarrollo, es decir, para ejecutar la aplicación. Después, navegar a `http://localhost:4200/`. 
 * También, se puede ejecutar `ng -o serve` para que la aplicación se ejecute y se abra automáticamente en el navegador por defecto. La aplicación, en ambos casos, se recargará automáticamente si cambia alguno de los archivos de origen.
 
-Otra manera más sencila de acceder al proyecto es haciendo clic [aquí](https://angular-ttoh.netlify.app).
+Otra manera más sencila de acceder al proyecto realizado es haciendo clic [aquí](https://angular-ttoh.netlify.app).
