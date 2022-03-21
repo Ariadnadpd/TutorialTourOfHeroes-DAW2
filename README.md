@@ -1,4 +1,4 @@
-# TutorialTryIt-DAW2
+# Tutorial Tour Of Heroes - DAW2
 Sitio web desarrollado con el framework de Angular, basado en el tutorial [_Tour of Heroes_](https://angular.io/tutorial) de la página oficial de [Angular](https://angular.io).
 
 El tutorial trata de ayudar a una agencia de personal a administrar su grupo de héroes. La aplicación tiene muchas de las funciones que esperaría encontrar en cualquier aplicación basada en datos. 
